@@ -72,7 +72,7 @@ const NavBar = ({ toggleDarkMode, darkMode }) => {
           {/* hamburger */}
           <button
             onClick={toggleNav}
-            className="cursor-pointer text-2xl hidden md:block"
+            className="text-white cursor-pointer text-2xl hidden md:block"
           >
             <HiMenu size={25} />
           </button>
