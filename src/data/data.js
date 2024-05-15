@@ -14,6 +14,14 @@ export const data = [
     desc: "This was my debut academic project, where our team was challenged to create a website for mothers advocating for chronic kidney disease awareness in Brazil. I played a key role in backend development, focusing on login and blog functionalities.",
     link: "",
     git: "https://github.com/Sync-FATEC/API-NEFRO/tree/main",
+  },
+  {
+    id: 3,
+    img: 'https://i.postimg.cc/2Svx19d0/Captura-de-tela-20240515-091652.png',
+    title: "Personal Portfolio",
+    desc: "This project was a personal initiative to create a portfolio website. I was responsible for the entire development process, from design to deployment. The website was built using React, Tailwind CSS, and AOS animations.",
+    link: "",
+    git: "https://github.com/filipecolla/Portfolio",
   }
   
 ];
