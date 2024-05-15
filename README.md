@@ -93,7 +93,7 @@
 </div>
 <div>
   <h1>
-      🚦 Running the project:
+    🚦 Running the project:
   </h1>
   <p>
     To run the project in your local environment, follow these steps:
@@ -102,8 +102,8 @@
     <p>
         1. Clone the repository in your local machine.<br>
         2. Run "npm install" in the project directory to install the required dependencies.<br>
-        3. Run "npm dev run" to get the project started.
-        4. Open "http://localhost:5173/" (or the address show in your console) in your web browser to view the portfolio.
+        3. Run "npm dev run" to get the project started.<br>
+        4. Open <a href="http://localhost:5173/">http://localhost:5173/</a> (or the address shown in your console) in your web browser to view the portfolio.
     </p>
   </ul>
 </div>
